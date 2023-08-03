@@ -5,13 +5,19 @@
 ### 💻 Source Code
 
 - 🔗 [Chapter 1 - Introduction & Setup](https://github.com/gitdagray/next-js-course/tree/main/next01)
+
 **Pre-Rendering: https://nextjs.org/docs/basic-features/pages#pre-rendering
 
 - 🔗 [Chapter 2 - Pages & Layout](https://github.com/gitdagray/next-js-course/tree/main/next02)
+
 Pages: https://nextjs.org/docs/basic-features/pages
+
 Layout: https://nextjs.org/docs/basic-features/layouts
+
 Links: https://nextjs.org/docs/api-reference/next/link
+
 Routes: https://nextjs.org/docs/routing/dynamic-routes
+
 ErrorHandling: https://nextjs.org/docs/advanced-features/error-handling
 
 - 🔗 [Chapter 3 - Data Fetching, Dynamic Routes & Metadata](https://github.com/gitdagray/next-js-course/tree/main/next03)
