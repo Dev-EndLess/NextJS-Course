@@ -1,8 +1,15 @@
-import Image from 'next/image'
+import TodoList from "./components/TodoList"
+import AddTodo from "./components/AddTodo"
+
+export const revalidate = 0
 
 export default function Home() {
+
   return (
-    <main>
-    </main>
+    <>
+      <AddTodo />
+      {/* @ts-expect-error Server Component */}
+      <TodoList />
+    </>
   )
 }
