@@ -1,4 +1,6 @@
-![Next 13](https://nextjs.org/static/blog/next-13/twitter-card.png)
+# ▶️ NextJS + TS Tutorial and Reference
+ 
+![Next 13](https://i0.wp.com/kaliex.co/wp-content/uploads/2023/05/nextjs.webp?resize=500%2C250&ssl=1)
 
 ## 💻 Source Code
 
@@ -22,8 +24,9 @@
 
 🔗 [Chapter 4 - SSG, SSR, & ISR](https://github.com/gitdagray/next-js-course/tree/main/next04)
 
-- SSG/SSR: https://nextjs.org/docs/basic-features/pages#static-generation
-- ISR: https://nextjs.org/docs/basic-features/data-fetching/incremental-static-regeneration
+- Static Site Generation: https://nextjs.org/docs/pages/building-your-application/rendering/static-site-generation
+- Server Side Rendering: https://nextjs.org/docs/pages/building-your-application/rendering/server-side-rendering
+- Icremental Static Regeneration: https://nextjs.org/docs/basic-features/data-fetching/incremental-static-regeneration
 - Caching: https://beta.nextjs.org/docs/data-fetching/caching
 - DynamicParams: https://beta.nextjs.org/docs/api-reference/segment-config#dynamicparams
 
@@ -50,6 +53,15 @@
 - Caveats: https://nextjs.org/docs/api-routes/introduction#caveats
 
 🔗 [Chapter 10 - Revalidation](https://github.com/gitdagray/next-js-course/tree/main/next10)
+
+- Revalidation: (https://nextjs.org/docs/app/building-your-application/data-fetching/fetching-caching-and-revalidating#revalidating-data)
+
+🔗 [Chapter 11 - Mutating Data](https://github.com/gitdagray/next-js-course/tree/main/next11)
+
+- useTransition (https://nextjs.org/docs/app/building-your-application/data-fetching/server-actions#custom-invocation-using-starttransition)
+- useRouter (push/replace/refresh/etc..etc..) (https://nextjs.org/docs/app/api-reference/functions/use-router)
+- Soft Navigation (https://nextjs.org/docs/app/building-your-application/routing/linking-and-navigating#4-soft-navigation)
+
 ### 📚 References
 - 🔗 [Next.js Official Site](https://nextjs.org/)
 - 🔗 [Next.js 13 Beta Docs](https://beta.nextjs.org/docs)
